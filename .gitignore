@@ -64,3 +64,5 @@ staticfiles/
 
 # Local database
 db.sqlite3
+
+cookies_instagram.txt
